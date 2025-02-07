@@ -20,7 +20,7 @@ This is a **Machine Learning-based Disease Prediction System** developed using *
 ## Installation & Setup 🏗️
 ### Clone the Repository
 ```sh
-git clone https://github.com/MothilalShiva/Prediction_of_Disease_Outbreaks.git
+git clone https://github.com/hritikranjan1/Prediction-of-Disease-Outbreaks.git
 cd Prediction_of_Disease_Outbreaks
 ```
 
