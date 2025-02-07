@@ -53,7 +53,7 @@ Prediction_of_Disease_Outbreaks/
 ```
 
 ## Screenshots 📸
-![Screenshot](https://github.com/MothilalShiva/Prediction_of_Disease_Outbreaks/blob/main/predict.png)
+![Screenshot](https://github.com/hritikranjan1/Prediction-of-Disease-Outbreaks/blob/main/predict.png)
 
 
 ---
